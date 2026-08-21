@@ -1,4 +1,0 @@
-DEBUG=True
-SECRET_KEY=django-insecure-hr-management-secret-key-prod-dev
-SUPABASE_URL=https://zvevesyjwzstoruvmzrd.supabase.co
-SUPABASE_SERVICE_ROLE_KEY=sb_secret_CrVG4nIAV3E5bkfZFilTZA_P__wHxYo
